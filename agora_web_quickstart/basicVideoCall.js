@@ -57,7 +57,7 @@ async function startBasicCall() {
             // Get the RemoteAudioTrack object in the AgoraRTCRemoteUser object.
             const remoteAudioTrack = user.audioTrack;
             // Play the remote audio track. No need to pass any DOM element.
-            // remoteAudioTrack.play();
+            remoteAudioTrack.play();
         }
 
         // Listen for the "user-unpublished" event
