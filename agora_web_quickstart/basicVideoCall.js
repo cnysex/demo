@@ -12,7 +12,7 @@ let options = {
     // Set the channel name.
     channel: "test",
     // Pass your temp token here.
-    token: "006f5e5e72b277845aab2015da33d96e005IABcD1H9rjovvSldASVyx0NxCkwhFV6puD2tXq0hPtHJ6gx+f9gAAAAAEAA4smrc069/YgEAAQDTr39i",
+    token: "006f5e5e72b277845aab2015da33d96e005IAA24mjtKNo8+9d6KDCCLvdH5mm5dTY9O08UjLE3NHYE+gx+f9gAAAAAEAA4smrcmmmCYgEAAQCZaYJi",
     // Set the user ID.
     uid: 12321,
 };
