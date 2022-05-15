@@ -70,6 +70,9 @@ async function startBasicCall() {
     });
 
     window.onload = function () {
+
+        options.uid = document.querySelector('#uid').value
+
         document.getElementById("join").onclick = async function () {
           console.log(options)
             // Join an RTC channel.
